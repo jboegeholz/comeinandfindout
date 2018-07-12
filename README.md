@@ -26,6 +26,7 @@ Einbrettungs-Material für neue Mitarbeiter / Onboarding material
 ## Git
 * [Git tutorial on github](https://try.github.io)
 * [Git tutorial codecademy](https://www.codecademy.com/learn/learn-git)
+* [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Misc
 * [Command line tutorial](https://www.codecademy.com/learn/learn-the-command-line)
