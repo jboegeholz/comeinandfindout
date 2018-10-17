@@ -31,3 +31,10 @@ Einbrettungs-Material für neue Mitarbeiter / Onboarding material
 ## Misc
 * [Command line tutorial](https://www.codecademy.com/learn/learn-the-command-line)
 * [SQL tutorial](https://www.codecademy.com/learn/learn-sql)
+
+## Books 
+* The Pragmatic Programmer
+* The Passionate Programmer
+* Refactoring
+* Design Pattern
+* 
