@@ -37,4 +37,4 @@ Einbrettungs-Material für neue Mitarbeiter / Onboarding material
 * The Passionate Programmer
 * Refactoring
 * Design Pattern
-* 
+* Lessons Learned in Sofware Testing
